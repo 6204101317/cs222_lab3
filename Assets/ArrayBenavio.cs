@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class ArrayBenavio : MonoBehaviour
 {
-     // Start is called before the first frame update
+   // Start is called before the first frame update
 public float speed = 1.0f;
 public WeaponBehaviour [] weapons;
 public int arraySize;
